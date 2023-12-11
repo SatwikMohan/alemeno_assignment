@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Local Database is used for which Hive is implemented.
+
 ![WhatsApp Image 2023-12-11 at 15 22 40 (1)](https://github.com/SatwikMohan/alemeno_assignment/assets/101632079/c427f159-a2fe-4d51-a296-6b2651c42c6c)
 ![WhatsApp Image 2023-12-11 at 15 22 39](https://github.com/SatwikMohan/alemeno_assignment/assets/101632079/c1b2aad5-d5e1-47a7-b2b0-7abf5a39c27b)
 ![WhatsApp Image 2023-12-11 at 15 22 40 (2)](https://github.com/SatwikMohan/alemeno_assignment/assets/101632079/88c0bdf8-5775-4e46-a394-30983d7db8e4)
